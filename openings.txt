@@ -1,0 +1,972 @@
+8.393  0.953	1	Mountebank/Chapel	5/2
+8.151  0.967	2	Tournament/Ambassador	4/3
+8.039  0.950	3	Governor/Chapel	5/2
+7.688  0.984	4	Mint/Fool's Gold	5/2
+7.342  0.943	5	Witch/Chapel	5/2
+7.126  0.952	6	Tournament/Chapel	4/2
+6.620  0.941	7	Caravan/Ambassador	4/3
+6.456  0.951	8	Upgrade/Chapel	5/2
+6.353  0.942	9	Mountebank/Hamlet	5/2
+6.319  0.943	10	Tournament/Masquerade	4/3
+6.278  0.942	11	Hunting Party/Chapel	5/2
+6.182  0.950	12	Vault/Chapel	5/2
+6.149  0.941	13	Trading Post/Haven	5/2
+6.101  0.955	14	Wharf/Fool's Gold	5/2
+6.060  0.951	15	Mountebank/Crossroads	5/2
+6.010  0.924	16	Minion/Chapel	5/2
+6.091  1.025	17	Sea Hag/Fool's Gold	4/2
+5.953  0.935	18	Mountebank/Native Village	5/2
+5.915  0.983	19	Witch/Fool's Gold	5/2
+5.842  0.942	20	Witch/Crossroads	5/2
+5.865  0.990	21	Mountebank/Fool's Gold	5/2
+5.725  0.917	22	Bazaar/Chapel	5/2
+5.723  0.925	23	Trading Post/Lighthouse	5/2
+5.703  0.916	24	Treasury/Chapel	5/2
+5.683  0.928	25	Trading Post	5/2
+5.608  0.929	26	Spice Merchant/Ambassador	4/3
+5.589  0.938	27	Mountebank/Haven	5/2
+5.492  0.932	28	Trading Post/Courtyard	5/2
+5.482  0.923	29	Caravan/Masquerade	4/3
+5.492  0.942	30	Ghost Ship/Chapel	5/2
+5.466  0.934	31	Mountebank/Pawn	5/2
+5.430  0.919	32	Laboratory/Chapel	5/2
+5.440  0.930	33	Trading Post/Pearl Diver	5/2
+5.413  0.929	34	Young Witch/Tunnel	4/3
+5.403  0.927	35	Mountebank/Lighthouse	5/2
+5.372  0.934	36	Mountebank/Pearl Diver	5/2
+5.337  0.930	37	Trading Post/Hamlet	5/2
+5.225  0.920	38	Young Witch/Chapel	4/2
+5.195  0.930	39	Witch/Hamlet	5/2
+5.201  0.942	40	Mountebank/Courtyard	5/2
+5.142  0.922	41	Market/Chapel	5/2
+5.177  0.975	42	Trading Post/Chapel	5/2
+5.125  0.924	43	Trading Post/Pawn	5/2
+5.358  1.163	44	Ambassador/Fool's Gold	3/2
+5.103  0.918	45	Highway/Chapel	5/2
+5.110  0.928	46	Mountebank/Cellar	5/2
+5.099  0.925	47	Tournament/Steward	4/3
+5.081  0.923	48	Potion/Ambassador	4/3
+5.071  0.918	49	Monument/Chapel	4/2
+5.082  0.936	50	Witch/Haven	5/2
+5.063  0.922	51	Witch/Lighthouse	5/2
+5.058  0.918	52	Ambassador/Ambassador	3/3
+5.008  0.925	53	Haggler/Chapel	5/2
+5.008  0.930	54	Mountebank/Embargo	5/2
+5.000  0.931	55	Witch/Native Village	5/2
+4.996  0.934	56	Fishing Village/Masquerade	3/3
+4.985  0.923	57	Torturer/Chapel	5/2
+4.984  0.924	58	Sea Hag/Lookout	4/3
+4.984  0.928	59	Witch/Moat	5/2
+4.944  0.920	60	Wharf/Chapel	5/2
+4.977  0.974	61	Stables/Chapel	5/2
+4.902  0.920	62	Jester/Chapel	5/2
+4.922  0.979	63	Venture/Chapel	5/2
+4.860  0.933	64	Witch/Embargo	5/2
+4.845  0.929	65	Quarry/Ambassador	4/3
+5.120  1.218	66	Mountebank/Duchess	5/2
+4.791  0.934	67	Witch/Pearl Diver	5/2
+4.823  0.970	68	Explorer/Chapel	5/2
+4.767  0.918	69	Sea Hag/Steward	4/3
+4.765  0.932	70	Upgrade/Courtyard	5/2
+4.825  1.023	71	Ambassador/Scheme	3/3
+4.706  0.930	72	Witch/Cellar	5/2
+4.794  1.053	73	Loan/Masquerade	3/3
+4.656  0.920	74	Spice Merchant/Masquerade	4/3
+4.637  0.924	75	Mountebank	5/2
+4.604  0.920	76	Young Witch/Lookout	4/3
+4.597  0.918	77	Militia/Chapel	4/2
+4.566  0.928	78	Witch/Pawn	5/2
+4.544  0.926	79	Worker's Village/Ambassador	4/3
+4.543  0.928	80	Ambassador/Fishing Village	3/3
+4.524  0.922	81	Jack of All Trades/Fishing Village	4/3
+4.509  0.922	82	Witch	5/2
+4.530  0.948	83	Torturer/Crossroads	5/2
+4.511  0.937	84	Witch/Courtyard	5/2
+4.445  0.915	85	Militia/Ambassador	4/3
+4.435  0.918	86	Jack of All Trades/Warehouse	4/3
+4.432  0.919	87	Masquerade/Silver	3/3
+4.440  0.929	88	Swindler/Chapel	3/2
+4.417  0.922	89	Sea Hag/Warehouse	4/3
+4.369  0.910	90	Jack of All Trades/Ambassador	4/3
+4.333  0.911	91	Jack of All Trades/Scheme	4/3
+4.343  0.923	92	Wharf/Crossroads	5/2
+4.334  0.921	93	Sea Hag/Fishing Village	4/3
+4.343  0.932	94	Trading Post/Moat	5/2
+4.326  0.928	95	Trading Post/Embargo	5/2
+4.331  0.948	96	Margrave/Fool's Gold	5/2
+4.280  0.912	97	Spice Merchant/Steward	4/3
+4.261  0.916	98	Bishop/Chapel	4/2
+4.292  0.950	99	Chapel/Fool's Gold	2/2
+4.350  1.011	100	Young Witch/Wishing Well	4/3
+4.433  1.130	101	Trading Post/Nomad Camp	5/4
+4.365  1.076	102	Steward/Fool's Gold	3/2
+4.196  0.920	103	Worker's Village/Masquerade	4/3
+4.195  0.923	104	Quarry/Chapel	4/2
+4.185  0.924	105	Sea Hag/Scheme	4/3
+4.173  0.920	106	Walled Village/Masquerade	4/3
+4.181  0.930	107	Upgrade/Haven	5/2
+4.163  0.914	108	Mine/Chapel	5/2
+4.159  0.914	109	Young Witch/Ambassador	4/3
+4.308  1.065	110	Ambassador/Loan	3/3
+4.161  0.923	111	Potion/Masquerade	4/3
+4.344  1.111	112	Mountebank/Nomad Camp	5/4
+4.143  0.915	113	Festival/Chapel	5/2
+4.139  0.921	114	Mining Village/Ambassador	4/3
+4.313  1.103	115	Ill-Gotten Gains/Courtyard	5/2
+4.121  0.913	116	Sea Hag/Chapel	4/2
+4.122  0.917	117	Farming Village/Ambassador	4/3
+4.136  0.936	118	Trading Post/Crossroads	5/2
+4.108  0.916	119	Sea Hag/Loan	4/3
+4.101  0.910	120	Jack of All Trades/Chapel	4/2
+4.349  1.173	121	Masquerade/Fool's Gold	3/2
+4.094  0.918	122	Upgrade/Lighthouse	5/2
+4.093  0.919	123	Mountebank/Moat	5/2
+4.079  0.916	124	Jack of All Trades/Lookout	4/3
+4.110  0.957	125	Ambassador/Lighthouse	3/2
+4.293  1.143	126	Ambassador/Village	3/3
+4.039  0.908	127	Jack of All Trades/Shanty Town	4/3
+4.031  0.913	128	Farming Village/Masquerade	4/3
+4.044  0.934	129	Remodel/Fool's Gold	4/2
+4.132  1.024	130	Masquerade/Shanty Town	3/3
+4.009  0.910	131	Monument/Masquerade	4/3
+3.988  0.915	132	Sea Hag/Ambassador	4/3
+3.976  0.914	133	Monument/Ambassador	4/3
+4.160  1.106	134	Witch/Nomad Camp	5/4
+3.952  0.914	135	Mining Village/Masquerade	4/3
+3.944  0.909	136	Trader/Swindler	4/3
+4.140  1.106	137	Masquerade/Village	3/3
+3.944  0.911	138	Moneylender/Ambassador	4/3
+3.957  0.939	139	Margrave/Chapel	5/2
+3.996  0.986	140	Trading Post/Fool's Gold	5/2
+5.249  2.253	141	Chapel/Hamlet	2/2
+3.912  0.918	142	Tournament/Swindler	4/3
+3.883  0.917	143	Sea Hag/Silver	4/3
+3.887  0.926	144	Walled Village/Ambassador	4/3
+3.847  0.907	145	Merchant Ship/Chapel	5/2
+3.850  0.910	146	Militia/Masquerade	4/3
+3.847  0.914	147	Tournament/Lookout	4/3
+3.843  0.916	148	Trading Post/Native Village	5/2
+3.821  0.912	149	Salvager/Ambassador	4/3
+3.840  0.933	150	Upgrade/Embargo	5/2
+4.042  1.137	151	Ambassador/Chapel	3/2
+3.831  0.937	152	Hunting Party/Lighthouse	5/2
+3.815  0.923	153	Torturer/Native Village	5/2
+4.051  1.160	154	Masquerade/Swindler	3/3
+3.794  0.915	155	Worker's Village/Chapel	4/2
+3.780  0.910	156	Trader/Ambassador	4/3
+3.801  0.935	157	Jack of All Trades/Lighthouse	4/2
+3.779  0.918	158	Young Witch/Loan	4/3
+3.874  1.019	159	Apprentice/Chapel	5/2
+4.700  1.853	160	Wishing Well/Chapel	3/2
+3.759  0.915	161	Salvager/Loan	4/3
+3.750  0.909	162	Jack of All Trades/Silver	4/3
+3.744  0.909	163	Caravan/Chapel	4/2
+3.731  0.913	164	Jack of All Trades/Oasis	4/3
+3.731  0.918	165	Fishing Village/Steward	3/3
+3.726  0.920	166	Young Witch/Fishing Village	4/3
+3.761  0.982	167	Council Room/Fool's Gold	5/2
+3.753  0.984	168	Young Witch/Fool's Gold	4/2
+3.663  0.912	169	Mining Village/Chapel	4/2
+3.649  0.917	170	Ambassador/Silver	3/3
+9.308  6.633	171	Mountebank/Silver	5/3
+3.593  0.919	172	Spice Merchant/Swindler	4/3
+3.571  0.913	173	Silver/Chapel	3/2
+3.883  1.228	174	Ambassador/Steward	3/3
+3.620  0.974	175	Mine/Fool's Gold	5/2
+3.559  0.914	176	Bridge/Chapel	4/2
+3.681  1.037	177	Ill-Gotten Gains/Lighthouse	5/2
+3.567  0.926	178	Salvager/Chapel	4/2
+3.571  0.931	179	Upgrade/Moat	5/2
+3.550  0.915	180	Caravan/Swindler	4/3
+3.547  0.913	181	Jack of All Trades/Masquerade	4/3
+4.013  1.393	182	Ambassador/Masquerade	3/3
+3.614  0.997	183	Sea Hag/Menagerie	4/3
+3.547  0.934	184	Spice Merchant/Chapel	4/2
+3.492  0.912	185	Jack of All Trades/Loan	4/3
+3.481  0.918	186	Trading Post/Cellar	5/2
+3.519  0.971	187	Jack of All Trades/Fool's Gold	4/2
+3.468  0.923	188	Upgrade/Pawn	5/2
+3.455  0.915	189	Young Witch/Masquerade	4/3
+3.747  1.208	190	Young Witch/Chancellor	4/3
+3.450  0.913	191	Minion/Lighthouse	5/2
+3.477  0.951	192	Jack of All Trades/Hamlet	4/2
+3.461  0.937	193	Sea Hag/Oasis	4/3
+3.435  0.912	194	Young Witch/Steward	4/3
+3.433  0.910	195	Caravan/Steward	4/3
+3.432  0.910	196	Sea Hag/Masquerade	4/3
+3.679  1.159	197	Ill-Gotten Gains/Moat	5/2
+3.428  0.909	198	Wharf/Lighthouse	5/2
+3.854  1.347	199	Ill-Gotten Gains/Nomad Camp	5/4
+3.412  0.914	200	Remake/Menagerie	4/3
+3.427  0.939	201	Spy/Ambassador	4/3
+3.391  0.911	202	Young Witch/Shanty Town	4/3
+3.392  0.913	203	Masquerade/Masquerade	3/3
+3.486  1.009	204	Ambassador/Warehouse	3/3
+3.395  0.919	205	Salvager/Fool's Gold	4/2
+3.378  0.915	206	Quarry/Masquerade	4/3
+4.289  1.826	207	Ambassador/Haven	3/2
+3.370  0.914	208	Nomad Camp/Fool's Gold/Fool's Gold	4/2/2
+3.360  0.914	209	Jack of All Trades/Swindler	4/3
+3.361  0.918	210	Remake/Fool's Gold	4/2
+3.343  0.910	211	Sea Hag/Swindler	4/3
+3.341  0.915	212	Remake/Fishing Village	4/3
+3.364  0.940	213	Sea Hag/Develop	4/3
+3.685  1.266	214	Mountebank/Copper	5/0
+3.343  0.927	215	Royal Seal/Chapel	5/2
+3.364  0.948	216	Young Witch/Develop	4/3
+3.390  1.011	217	Young Witch/Crossroads	4/2
+3.285  0.908	218	Tactician/Chapel	5/2
+3.299  0.927	219	Cutpurse/Masquerade	4/3
+3.466  1.094	220	Ambassador/Swindler	3/3
+3.463  1.094	221	Upgrade/Nomad Camp	5/4
+3.449  1.124	222	Ambassador/Lookout	3/3
+3.226  0.912	223	Treasure Map/Chapel	4/2
+3.234  0.922	224	Torturer/Hamlet	5/2
+3.273  0.963	225	Jack of All Trades/Menagerie	4/3
+3.435  1.137	226	Hunting Party/Nomad Camp	5/4
+3.262  0.965	227	Hunting Party/Crossroads	5/2
+3.264  0.974	228	Young Witch/Fortune Teller	4/3
+3.198  0.910	229	Fishing Village/Chapel	3/2
+3.445  1.166	230	Masquerade/Scheme	3/3
+3.380  1.101	231	Embassy/Chapel	5/2
+3.673  1.396	232	Masquerade/Chapel	3/2
+3.185  0.911	233	Young Witch/Silver	4/3
+3.181  0.908	234	Moneylender/Masquerade	4/3
+3.191  0.918	235	Tunnel/Warehouse	3/3
+3.215  0.957	236	Vault/Crossroads	5/2
+3.165  0.909	237	Upgrade	5/2
+3.326  1.074	238	Embassy/Fool's Gold	5/2
+3.160  0.910	239	Young Witch/Swindler	4/3
+3.153  0.905	240	Monument/Steward	4/3
+3.151  0.915	241	Feast/Ambassador	4/3
+3.145  0.910	242	Bishop/Ambassador	4/3
+3.154  0.921	243	Sea Hag/Trade Route	4/3
+3.137  0.910	244	Spice Merchant/Develop	4/3
+3.119  0.910	245	Treasure Map/Ambassador	4/3
+3.140  0.936	246	Young Witch/Menagerie	4/3
+3.138  0.936	247	Mountebank/Secret Chamber	5/2
+3.145  0.947	248	Apprentice/Courtyard	5/2
+3.101  0.911	249	Cutpurse/Chapel	4/2
+3.208  1.018	250	Ambassador/Shanty Town	3/3
+3.093  0.904	251	Farming Village/Chapel	4/2
+3.199  1.011	252	Steward/Swindler	3/3
+3.132  0.945	253	Haggler/Haven	5/2
+3.486  1.304	254	Oasis/Chapel	3/2
+3.173  1.000	255	Lookout/Swindler	3/3
+3.144  0.971	256	Remake/Wishing Well	4/3
+3.080  0.909	257	Remake/Ambassador	4/3
+3.088  0.924	258	Vault/Lighthouse	5/2
+3.066  0.907	259	Island/Ambassador	4/3
+3.304  1.152	260	Trading Post/Duchess	5/2
+3.262  1.118	261	Witch/Copper	5/0
+3.245  1.108	262	Ill-Gotten Gains/Fool's Gold	5/2
+3.041  0.906	263	Remake/Loan	4/3
+3.239  1.108	264	Ill-Gotten Gains/Pawn	5/2
+3.040  0.911	265	Bishop/Loan	4/3
+3.032  0.908	266	Remake/Swindler	4/3
+3.035  0.912	267	Feast/Masquerade	4/3
+3.642  1.519	268	Ambassador/Hamlet	3/2
+3.311  1.221	269	Venture/Courtyard	5/2
+3.377  1.292	270	Masquerade/Lighthouse	3/2
+2.991  0.915	271	Governor/Lighthouse	5/2
+4.603  2.534	272	Masquerade/Wishing Well	3/3
+2.997  0.935	273	Jester/Crossroads	5/2
+2.969  0.915	274	Cutpurse/Ambassador	4/3
+2.978  0.925	275	Upgrade/Hamlet	5/2
+4.796  2.746	276	Nomad Camp/Chapel/Fool's Gold	4/2/2
+2.996  0.947	277	Contraband/Chapel	5/2
+2.986  0.949	278	Spy/Masquerade	4/3
+2.986  0.950	279	Trading Post/Herbalist	5/2
+2.927  0.904	280	Island/Masquerade	4/3
+3.318  1.300	281	Ill-Gotten Gains/Duchess	5/2
+3.208  1.196	282	Young Witch/Oracle	4/3
+2.943  0.931	283	Upgrade/Pearl Diver	5/2
+3.744  1.732	284	Ambassador/Menagerie	3/3
+2.926  0.917	285	Young Witch/Lighthouse	4/2
+2.936  0.929	286	Jester/Haven	5/2
+2.915  0.910	287	Trader/Chapel	4/2
+3.840  1.836	288	Masquerade/Menagerie	3/3
+2.929  0.930	289	Fishing Village/Swindler	3/3
+2.906  0.912	290	Bishop/Fishing Village	4/3
+2.919  0.930	291	Rabble/Chapel	5/2
+4.160  2.176	292	Mandarin/Mountebank	5/5
+2.886  0.908	293	Monument/Loan	4/3
+2.923  0.946	294	Witch/Secret Chamber	5/2
+3.498  1.525	295	Oasis/Swindler	3/3
+3.488  1.528	296	Menagerie/Chapel	3/2
+3.170  1.212	297	Steward/Chapel	3/2
+3.038  1.082	298	Loan/Steward	3/3
+2.873  0.921	299	Haggler/Lighthouse	5/2
+2.931  0.982	300	Ghost Ship/Crossroads	5/2
+3.088  1.143	301	Young Witch/Moat	4/2
+2.824  0.913	302	Tournament/Loan	4/3
+2.808  0.909	303	Moneylender/Warehouse	4/3
+2.914  1.019	304	Torturer/Fool's Gold	5/2
+2.826  0.931	305	Envoy/Ambassador	4/3
+2.824  0.933	306	Throne Room/Masquerade	4/3
+3.024  1.143	307	Swindler/Warehouse	3/3
+2.855  0.983	308	Vault/Courtyard	5/2
+2.825  0.953	309	Governor/Courtyard	5/2
+2.841  0.976	310	Library/Chapel	5/2
+2.771  0.908	311	Sea Hag/Lighthouse	4/2
+2.818  0.957	312	Salvager/Menagerie	4/3
+2.758  0.909	313	Sea Hag/Shanty Town	4/3
+2.794  0.949	314	Conspirator/Ambassador	4/3
+2.727  0.907	315	Spice Merchant/Fool's Gold	4/2
+2.797  0.982	316	Bishop/Wishing Well	4/3
+3.150  1.336	317	Scheme/Chapel	3/2
+2.850  1.039	318	Cartographer/Chapel	5/2
+2.748  0.942	319	Envoy/Masquerade	4/3
+2.714  0.910	320	Treasure Map/Masquerade	4/3
+3.031  1.231	321	Witch/Duchess	5/2
+2.699  0.905	322	Salvager/Swindler	4/3
+2.842  1.049	323	Governor/Nomad Camp	5/4
+2.716  0.925	324	Apprentice/Lighthouse	5/2
+2.748  0.969	325	Mountebank/Herbalist	5/2
+2.763  0.985	326	Cache/Chapel	5/2
+2.687  0.910	327	Jester/Lighthouse	5/2
+2.978  1.201	328	Jack of All Trades/Haven	4/2
+2.682  0.910	329	Bishop/Menagerie	4/3
+2.700  0.934	330	Remake/Hamlet	4/2
+2.796  1.035	331	Sea Hag/Fortune Teller	4/3
+3.045  1.286	332	Chapel/Lighthouse	2/2
+2.936  1.178	333	Young Witch/Pawn	4/2
+2.690  0.936	334	Conspirator/Masquerade	4/3
+2.862  1.112	335	Ambassador/Watchtower	3/3
+3.011  1.261	336	Sea Hag/Haven	4/2
+2.658  0.910	337	Tournament/Shanty Town	4/3
+3.070  1.331	338	Jack of All Trades/Courtyard	4/2
+2.641  0.902	339	Treasury/Lighthouse	5/2
+2.687  0.948	340	Governor/Embargo	5/2
+2.649  0.911	341	Militia/Steward	4/3
+2.664  0.927	342	Mine/Crossroads	5/2
+2.642  0.906	343	Conspirator/Chapel	4/2
+2.764  1.034	344	Jack of All Trades/Native Village	4/2
+2.659  0.938	345	Throne Room/Ambassador	4/3
+2.626  0.906	346	Monument/Warehouse	4/3
+2.629  0.911	347	Jack of All Trades/Village	4/3
+2.625  0.916	348	Young Witch/Village	4/3
+2.611  0.909	349	Horse Traders/Chapel	4/2
+2.602  0.905	350	Moneylender/Chapel	4/2
+2.603  0.908	351	Remake/Village	4/3
+2.613  0.920	352	Tournament/Trade Route	4/3
+12.063  10.371	353	Tournament/Tournament	4/4
+2.610  0.922	354	Black Market/Chapel	3/2
+2.591  0.905	355	Salvager/Silver	4/3
+2.619  0.936	356	Governor/Haven	5/2
+2.592  0.912	357	Wharf/Hamlet	5/2
+2.586  0.907	358	Sea Hag/Watchtower	4/3
+2.600  0.921	359	Haggler/Hamlet	5/2
+2.580  0.910	360	Potion/Chapel	4/2
+2.616  0.947	361	Spy/Chapel	4/2
+2.846  1.178	362	Minion/Nomad Camp	5/4
+2.972  1.306	363	Masquerade/Warehouse	3/3
+2.578  0.914	364	Bazaar/Courtyard	5/2
+2.846  1.184	365	Young Witch/Haven	4/2
+2.567  0.906	366	Monument/Lookout	4/3
+2.571  0.911	367	Ironworks/Chapel	4/2
+2.553  0.906	368	Horse Traders/Ambassador	4/3
+2.545  0.906	369	Remake/Warehouse	4/3
+2.546  0.922	370	Young Witch/Watchtower	4/3
+2.531  0.908	371	Farming Village/Steward	4/3
+2.580  0.970	372	Witch/Herbalist	5/2
+2.522  0.915	373	Remake/Lighthouse	4/2
+2.517  0.911	374	Jester/Hamlet	5/2
+2.953  1.347	375	Lookout/Masquerade	3/3
+2.525  0.920	376	Mine/Haven	5/2
+2.580  0.975	377	Embassy/Crossroads	5/2
+2.514  0.913	378	Island/Chapel	4/2
+2.509  0.911	379	Feast/Chapel	4/2
+3.205  1.615	380	Masquerade/Oasis	3/3
+2.497  0.911	381	Worker's Village/Steward	4/3
+3.112  1.533	382	Masquerade/Hamlet	3/2
+2.661  1.083	383	Jack of All Trades/Fortune Teller	4/3
+2.700  1.124	384	Scheme/Steward	3/3
+2.481  0.906	385	Island/Swindler	4/3
+3.011  1.438	386	Masquerade/Steward	3/3
+2.487  0.914	387	Ironworks/Ambassador	4/3
+2.522  0.949	388	Jester/Courtyard	5/2
+2.479  0.907	389	Merchant Ship/Lighthouse	5/2
+2.504  0.937	390	Apprentice/Haven	5/2
+2.485  0.917	391	Young Witch/Warehouse	4/3
+2.473  0.910	392	Remake/Scheme	4/3
+2.507  0.948	393	Young Witch/Great Hall	4/3
+2.986  1.429	394	Salvager/Haven	4/2
+2.567  1.014	395	Explorer/Lighthouse	5/2
+2.494  0.942	396	Young Witch/Oasis	4/3
+2.462  0.911	397	Torturer/Lighthouse	5/2
+2.453  0.908	398	Salvager/Fishing Village	4/3
+2.468  0.929	399	Apprentice/Pawn	5/2
+2.480  0.945	400	Apprentice/Embargo	5/2
+2.441  0.906	401	Silver/Steward	3/3
+2.537  1.008	402	Royal Seal/Courtyard	5/2
+2.689  1.160	403	Remake/Courtyard	4/2
+2.479  0.956	404	Vault/Pearl Diver	5/2
+2.453  0.931	405	Mine/Courtyard	5/2
+2.432  0.910	406	Steward/Steward	3/3
+2.431  0.914	407	Remodel/Chapel	4/2
+2.449  0.932	408	Smithy/Ambassador	4/3
+2.475  0.960	409	Vault/Embargo	5/2
+2.768  1.260	410	Young Witch/Courtyard	4/2
+2.452  0.948	411	Trading Post/Secret Chamber	5/2
+2.493  0.990	412	Young Witch/Woodcutter	4/3
+2.410  0.909	413	Envoy/Fishing Village	4/3
+2.435  0.934	414	Haggler/Fool's Gold	5/2
+3.511  2.019	415	Ambassador/Courtyard	3/2
+2.397  0.907	416	Potion/Swindler	4/3
+2.398  0.909	417	Jack of All Trades/Steward	4/3
+2.407  0.919	418	Sea Hag/Village	4/3
+2.407  0.922	419	Treasury/Courtyard	5/2
+2.381  0.906	420	Salvager/Masquerade	4/3
+2.940  1.472	421	Fortune Teller/Chapel	3/2
+2.370  0.907	422	Island/Loan	4/3
+2.407  0.948	423	Upgrade/Crossroads	5/2
+2.725  1.269	424	Ill-Gotten Gains/Copper	5/0
+2.365  0.912	425	Militia/Lookout	4/3
+2.387  0.934	426	Jester/Pearl Diver	5/2
+2.374  0.925	427	Spice Merchant/Warehouse	4/3
+2.854  1.406	428	Vault/Nomad Camp	5/4
+2.457  1.017	429	Sea Hag/Tunnel	4/3
+2.343  0.906	430	Moneylender/Fishing Village	4/3
+2.337  0.909	431	Monument/Fishing Village	4/3
+2.350  0.926	432	Remake/Chapel	4/2
+2.338  0.916	433	Salvager/Scheme	4/3
+2.526  1.108	434	Steward/Warehouse	3/3
+2.635  1.233	435	Jack of All Trades/Embargo	4/2
+2.456  1.064	436	Stash/Chapel	5/2
+2.334  0.945	437	Trader/Menagerie	4/3
+2.302  0.915	438	Margrave/Crossroads	5/2
+2.295  0.908	439	Bishop/Fool's Gold	4/2
+2.310  0.928	440	Margrave/Lighthouse	5/2
+2.413  1.032	441	Sea Hag/Embargo	4/2
+2.486  1.108	442	Swindler/Lighthouse	3/2
+2.284  0.908	443	Talisman/Masquerade	4/3
+2.281  0.907	444	Wharf/Native Village	5/2
+2.283  0.911	445	Haggler/Crossroads	5/2
+2.278  0.908	446	Farming Village/Swindler	4/3
+2.680  1.312	447	Trader/Courtyard	4/2
+2.300  0.933	448	Torturer/Haven	5/2
+2.365  1.004	449	Ambassador	3/-
+2.299  0.942	450	Island/Fool's Gold	4/2
+2.353  1.000	451	Apprentice/Fool's Gold	5/2
+2.724  1.371	452	Harvest/Chapel	5/2
+2.279  0.928	453	Tournament/Develop	4/3
+2.478  1.128	454	Apprentice/Nomad Camp	5/4
+2.249  0.902	455	Moneylender/Steward	4/3
+2.255  0.908	456	Remake/Masquerade	4/3
+2.525  1.180	457	Remake/Haven	4/2
+2.291  0.948	458	Governor/Fool's Gold	5/2
+2.236  0.907	459	Treasure Map/Warehouse	4/3
+2.233  0.906	460	Quarry/Steward	4/3
+2.232  0.909	461	Smithy/Fishing Village	4/3
+2.237  0.922	462	Salvager/Lighthouse	4/2
+2.540  1.229	463	Sea Hag/Courtyard	4/2
+2.231  0.923	464	Torturer/Pawn	5/2
+2.605  1.299	465	Young Witch/Pearl Diver	4/2
+2.203  0.906	466	Horse Traders/Masquerade	4/3
+2.406  1.111	467	Upgrade/Duchess	5/2
+2.272  0.977	468	Upgrade/Fool's Gold	5/2
+2.270  0.976	469	Hunting Party/Embargo	5/2
+2.193  0.905	470	Remake/Silver	4/3
+2.738  1.454	471	Nomad Camp/Silver/Chapel	4/3/2
+2.204  0.921	472	Tournament/Warehouse	4/3
+2.208  0.926	473	Tournament/Fortune Teller	4/3
+2.197  0.919	474	Walled Village/Chapel	4/2
+2.216  0.947	475	Smithy/Masquerade	4/3
+2.275  1.008	476	Shanty Town/Chapel	3/2
+2.294  1.031	477	Library/Lighthouse	5/2
+2.236  0.974	478	Hunting Party/Courtyard	5/2
+2.221  0.959	479	Royal Seal/Lighthouse	5/2
+2.169  0.910	480	Bridge/Masquerade	4/3
+2.333  1.075	481	Sea Hag/Hamlet	4/2
+2.193  0.940	482	Jack of All Trades	4/-
+2.623  1.373	483	Ambassador/Oasis	3/3
+2.165  0.923	484	Young Witch/Scheme	4/3
+2.155  0.914	485	Walled Village/Swindler	4/3
+2.149  0.908	486	Militia/Warehouse	4/3
+2.146  0.910	487	Remake/Oasis	4/3
+2.405  1.169	488	Steward/Lighthouse	3/2
+2.206  0.970	489	Hunting Party/Haven	5/2
+2.161  0.926	490	Jester/Native Village	5/2
+2.179  0.947	491	Apprentice/Pearl Diver	5/2
+2.131  0.907	492	Salvager/Lookout	4/3
+2.330  1.109	493	Young Witch/Embargo	4/2
+2.123  0.902	494	Island/Steward	4/3
+2.124  0.906	495	Wharf/Cellar	5/2
+3.226  2.012	496	Ambassador/Wishing Well	3/3
+2.116  0.908	497	Mine/Lighthouse	5/2
+2.111  0.908	498	Bishop/Lookout	4/3
+2.132  0.933	499	Young Witch/Trade Route	4/3
+2.122  0.928	500	Governor/Cellar	5/2
+2.688  1.494	501	Menagerie/Steward	3/3
+2.096  0.903	502	Trader/Scheme	4/3
+2.116  0.927	503	Treasury/Crossroads	5/2
+2.097  0.910	504	Militia/Loan	4/3
+2.422  1.235	505	Ill-Gotten Gains/Herbalist	5/2
+2.115  0.931	506	Minion/Embargo	5/2
+2.080  0.902	507	Bishop/Masquerade	4/3
+2.077  0.912	508	Monument/Lighthouse	4/2
+2.068  0.905	509	Jester	5/2
+2.434  1.274	510	Venture/Moat	5/2
+2.072  0.918	511	Laboratory/Crossroads	5/2
+2.052  0.906	512	Bishop/Lighthouse	4/2
+2.049  0.906	513	Mining Village/Steward	4/3
+2.101  0.961	514	Jack of All Trades/Great Hall	4/3
+2.062  0.929	515	Apprentice/Hamlet	5/2
+2.042  0.912	516	Treasury/Haven	5/2
+2.044  0.919	517	Governor/Crossroads	5/2
+2.025  0.909	518	Monument/Oasis	4/3
+2.031  0.916	519	Trader/Masquerade	4/3
+2.269  1.156	520	Navigator/Ambassador	4/3
+2.019  0.907	521	Navigator/Tunnel	4/3
+2.085  0.977	522	Jack of All Trades/Watchtower	4/3
+2.042  0.935	523	Torturer/Embargo	5/2
+2.018  0.912	524	Militia/Silver	4/3
+2.013  0.907	525	Silver/Swindler	3/3
+2.024  0.925	526	Jester/Pawn	5/2
+2.010  0.913	527	City/Chapel	5/2
+2.076  0.981	528	Nomad Camp/Ambassador	4/3
+2.000  0.905	529	Salvager/Village	4/3
+2.001  0.908	530	Monument/Swindler	4/3
+2.496  1.410	531	Tunnel/Chapel	3/2
+2.142  1.060	532	Navigator/Chapel	4/2
+1.985  0.903	533	Laboratory/Lighthouse	5/2
+2.036  0.958	534	Tribute/Chapel	5/2
+2.017  0.940	535	Jester/Embargo	5/2
+1.985  0.909	536	Smithy/Loan	4/3
+2.179  1.105	537	Village/Chapel	3/2
+1.981  0.908	538	Torturer	5/2
+1.977  0.909	539	Bridge/Ambassador	4/3
+2.180  1.117	540	Treasury/Nomad Camp	5/4
+1.986  0.925	541	Governor/Pawn	5/2
+1.990  0.941	542	Vault/Haven	5/2
+1.954  0.909	543	Bishop/Scheme	4/3
+2.452  1.407	544	Remake/Pearl Diver	4/2
+1.952  0.909	545	Walled Village/Steward	4/3
+1.956  0.914	546	Minion/Pawn	5/2
+2.000  0.958	547	Sea Hag/Moat	4/2
+1.947  0.911	548	Remake/Lookout	4/3
+1.939  0.912	549	Remodel/Ambassador	4/3
+2.057  1.038	550	Salvager/Wishing Well	4/3
+1.930  0.911	551	Treasury/Pawn	5/2
+1.955  0.940	552	Nomad Camp/Chapel	4/2
+2.104  1.093	553	Vault/Fool's Gold	5/2
+1.940  0.931	554	Tactician/Crossroads	5/2
+1.909  0.903	555	Trader/Silver	4/3
+2.097  1.091	556	Jack of All Trades/Wishing Well	4/3
+1.926  0.923	557	Island/Lighthouse	4/2
+1.903  0.901	558	Monument/Silver	4/3
+1.955  0.959	559	Tactician/Fool's Gold	5/2
+2.056  1.061	560	Sea Hag/Crossroads	4/2
+1.893  0.907	561	Militia/Swindler	4/3
+1.920  0.941	562	Ghost Ship/Haven	5/2
+1.883  0.906	563	Apprentice	5/2
+1.883  0.906	564	Caravan/Develop	4/3
+1.917  0.941	565	Margrave/Native Village	5/2
+1.881  0.912	566	Remake/Watchtower	4/3
+1.874  0.907	567	Bishop/Silver	4/3
+2.788  1.824	568	Mandarin/Trading Post	5/5
+1.886  0.924	569	Envoy/Chapel	4/2
+1.866  0.906	570	Cutpurse/Lookout	4/3
+2.256  1.296	571	Lookout/Steward	3/3
+2.320  1.361	572	Masquerade	3/-
+1.868  0.911	573	Young Witch/Smugglers	4/3
+2.818  1.862	574	Loan/Chapel	3/2
+2.029  1.075	575	Embassy/Lighthouse	5/2
+1.869  0.918	576	Treasure Map/Swindler	4/3
+1.904  0.958	577	Haggler/Pearl Diver	5/2
+1.863  0.918	578	Governor/Hamlet	5/2
+2.056  1.115	579	Jack of All Trades/Oracle	4/3
+2.018  1.079	580	Hunting Party/Fool's Gold	5/2
+4.232  3.295	581	Nomad Camp/Chapel/Haven	4/2/2
+1.923  0.987	582	Steward/Village	3/3
+1.845  0.909	583	Ironworks/Masquerade	4/3
+1.933  0.997	584	Ambassador/Black Market	3/3
+2.265  1.331	585	Oasis/Steward	3/3
+1.825  0.905	586	Swindler/Swindler	3/3
+2.085  1.166	587	Noble Brigand/Chapel	4/2
+3.035  2.117	588	Inn/Ambassador	5/3
+1.828  0.917	589	Caravan/Fortune Teller	4/3
+1.902  0.995	590	Jester/Fool's Gold	5/2
+1.825  0.918	591	Treasury/Embargo	5/2
+1.933  1.028	592	Trader/Fortune Teller	4/3
+1.823  0.922	593	Throne Room/Swindler	4/3
+1.969  1.069	594	Sea Hag/Wishing Well	4/3
+1.820  0.921	595	Upgrade/Native Village	5/2
+1.885  0.990	596	Library/Hamlet	5/2
+1.803  0.908	597	Ill-Gotten Gains	5/2
+1.888  0.994	598	Loan/Swindler	3/3
+1.877  0.984	599	Nomad Camp/Masquerade	4/3
+1.798  0.908	600	Moneylender/Oasis	4/3
+1.795  0.906	601	Smithy/Chapel	4/2
+1.784  0.904	602	Smithy/Silver	4/3
+1.783  0.905	603	Remodel/Loan	4/3
+1.781  0.905	604	Baron/Chapel	4/2
+2.144  1.269	605	Sea Hag/Pawn	4/2
+1.872  0.999	606	Vault/Moat	5/2
+1.775  0.905	607	Potion/Steward	4/3
+2.703  1.845	608	Ambassador/Moat	3/2
+1.768  0.911	609	Mining Village/Swindler	4/3
+1.771  0.917	610	Envoy/Loan	4/3
+1.755  0.901	611	Remake/Shanty Town	4/3
+1.757  0.905	612	Island/Silver	4/3
+1.818  0.969	613	Haggler/Courtyard	5/2
+1.981  1.131	614	Warehouse/Chapel	3/2
+1.750  0.901	615	Remake/Steward	4/3
+1.753  0.917	616	Moneylender/Crossroads	4/2
+1.764  0.928	617	Monument/Menagerie	4/3
+1.739  0.906	618	Bishop/Swindler	4/3
+1.747  0.916	619	Mine/Hamlet	5/2
+1.770  0.942	620	Ghost Ship/Hamlet	5/2
+2.068  1.251	621	Inn/Tunnel	5/3
+1.865  1.048	622	Black Market/Masquerade	3/3
+1.722  0.907	623	Bishop/Steward	4/3
+1.744  0.934	624	Market/Fool's Gold	5/2
+1.879  1.074	625	Ill-Gotten Gains/Embargo	5/2
+1.743  0.940	626	Apprentice/Moat	5/2
+1.828  1.026	627	Royal Seal/Moat	5/2
+1.713  0.912	628	Talisman/Ambassador	4/3
+1.707  0.912	629	Laboratory/Courtyard	5/2
+1.715  0.921	630	Jester/Cellar	5/2
+1.727  0.936	631	Cutpurse/Warehouse	4/3
+3.303  2.521	632	Chapel/Pawn	2/2
+1.691  0.909	633	Cutpurse/Steward	4/3
+1.688  0.908	634	Conspirator/Steward	4/3
+1.836  1.056	635	Ill-Gotten Gains/Chapel	5/2
+1.680  0.903	636	Salvager/Warehouse	4/3
+1.904  1.136	637	Remake/Pawn	4/2
+1.683  0.916	638	Ghost Ship/Lighthouse	5/2
+2.806  2.045	639	Young Witch/Duchess	4/2
+1.692  0.930	640	Young Witch/Workshop	4/3
+1.774  1.015	641	Envoy/Crossroads	4/2
+1.691  0.934	642	Margrave/Hamlet	5/2
+1.676  0.923	643	Horse Traders/Fool's Gold	4/2
+1.651  0.903	644	Baron/Masquerade	4/3
+1.697  0.950	645	Torturer/Courtyard	5/2
+1.648  0.904	646	Tactician/Lighthouse	5/2
+1.653  0.909	647	Mine/Cellar	5/2
+1.900  1.157	648	Young Witch/Cellar	4/2
+1.782  1.042	649	Laboratory/Nomad Camp	5/4
+1.657  0.919	650	Caravan/Warehouse	4/3
+1.819  1.082	651	Baron/Haven	4/2
+1.636  0.900	652	Salvager/Steward	4/3
+1.654  0.918	653	Salvager/Oasis	4/3
+1.910  1.182	654	Jack of All Trades/Cellar	4/2
+1.762  1.036	655	Sea Hag/Woodcutter	4/3
+1.807  1.086	656	Envoy/Fool's Gold	4/2
+1.664  0.943	657	Governor/Pearl Diver	5/2
+2.200  1.480	658	Fishing Village/Oracle	3/3
+1.627  0.908	659	Moneylender/Swindler	4/3
+1.654  0.935	660	Haggler/Pawn	5/2
+1.624  0.908	661	Tournament/Silver	4/3
+1.626  0.915	662	Silver/Courtyard	3/2
+1.614  0.905	663	Smithy/Steward	4/3
+1.613  0.904	664	Salvager/Shanty Town	4/3
+1.609  0.902	665	Vault	5/2
+1.614  0.908	666	Quarry/Swindler	4/3
+1.645  0.940	667	Torturer/Pearl Diver	5/2
+1.613  0.908	668	Cutpurse/Loan	4/3
+1.649  0.944	669	Governor/Moat	5/2
+1.610  0.907	670	Baron/Swindler	4/3
+2.069  1.367	671	Sea Hag/Chancellor	4/3
+1.780  1.079	672	Envoy/Hamlet	4/2
+1.661  0.973	673	Haggler/Embargo	5/2
+1.589  0.908	674	Wharf/Haven	5/2
+1.836  1.155	675	Treasury/Duchess	5/2
+1.980  1.303	676	Torturer/Nomad Camp	5/4
+1.603  0.926	677	Vault/Hamlet	5/2
+1.940  1.266	678	Venture/Embargo	5/2
+1.623  0.951	679	Ghost Ship/Embargo	5/2
+1.792  1.120	680	Develop/Fishing Village	3/3
+1.627  0.963	681	Trader/Lighthouse	4/2
+1.577  0.918	682	Conspirator/Loan	4/3
+1.565  0.906	683	Monument/Scheme	4/3
+1.894  1.241	684	Navigator/Masquerade	4/3
+1.557  0.907	685	Remodel/Swindler	4/3
+1.872  1.224	686	Inn/Chapel	5/2
+1.560  0.913	687	Remodel/Masquerade	4/3
+1.552  0.907	688	Cutpurse/Fishing Village	4/3
+1.788  1.143	689	Apprentice/Duchess	5/2
+1.572  0.930	690	Ghost Ship/Native Village	5/2
+1.542  0.905	691	Island/Fishing Village	4/3
+1.568  0.933	692	Merchant Ship/Crossroads	5/2
+1.552  0.919	693	Mine/Pearl Diver	5/2
+1.534  0.901	694	Moneylender/Silver	4/3
+1.531  0.902	695	Treasure Map/Steward	4/3
+1.543  0.916	696	Upgrade/Cellar	5/2
+1.979  1.353	697	Library/Fool's Gold	5/2
+2.648  2.023	698	Masquerade/Native Village	3/2
+2.418  1.794	699	Ambassador/Trade Route	3/3
+1.548  0.924	700	Torturer/Cellar	5/2
+1.582  0.958	701	Shanty Town/Steward	3/3
+1.524  0.902	702	Moneylender/Lighthouse	4/2
+1.536  0.917	703	Sea Hag/Black Market	4/3
+1.530  0.912	704	Militia/Fishing Village	4/3
+1.532  0.915	705	Sea Hag/Smugglers	4/3
+1.518  0.906	706	Bishop/Village	4/3
+1.526  0.920	707	Bridge/Native Village	4/2
+1.562  0.958	708	Spice Merchant/Fortune Teller	4/3
+1.699  1.099	709	Ghost Ship/Fool's Gold	5/2
+1.754  1.159	710	Woodcutter/Chapel	3/2
+1.500  0.906	711	Ironworks/Swindler	4/3
+1.495  0.905	712	Embassy	5/2
+1.491  0.902	713	Bishop/Shanty Town	4/3
+1.563  0.977	714	Treasure Map/Courtyard	4/2
+1.513  0.930	715	Haggler/Native Village	5/2
+1.483  0.901	716	Spice Merchant/Silver	4/3
+1.490  0.913	717	Militia/Scheme	4/3
+1.643  1.068	718	Explorer/Haven	5/2
+1.541  0.967	719	Smugglers/Chapel	3/2
+1.641  1.069	720	Embassy/Native Village	5/2
+1.719  1.148	721	Ill-Gotten Gains/Pearl Diver	5/2
+1.530  0.960	722	Ghost Ship/Pearl Diver	5/2
+1.521  0.950	723	Trader/Great Hall	4/3
+1.517  0.948	724	Stables/Lighthouse	5/2
+1.702  1.134	725	Wharf/Nomad Camp	5/4
+1.640  1.077	726	Woodcutter/Fool's Gold	3/2
+1.618  1.061	727	Shanty Town/Swindler	3/3
+2.340  1.783	728	Ambassador/Great Hall	3/3
+1.568  1.013	729	Saboteur/Chapel	5/2
+1.483  0.930	730	Minion/Courtyard	5/2
+1.650  1.100	731	Salvager/Hamlet	4/2
+1.476  0.927	732	Stables/Crossroads	5/2
+1.490  0.943	733	Vault/Cellar	5/2
+1.456  0.912	734	Bridge/Fool's Gold	4/2
+1.452  0.913	735	Mine/Pawn	5/2
+1.448  0.909	736	Monument/Village	4/3
+1.464  0.928	737	Militia/Oasis	4/3
+1.618  1.082	738	Ill-Gotten Gains/Hamlet	5/2
+1.439  0.903	739	Horse Traders/Steward	4/3
+1.643  1.108	740	Tournament/Chancellor	4/3
+1.439  0.907	741	Bazaar/Lighthouse	5/2
+1.439  0.908	742	Trader/Warehouse	4/3
+2.743  2.214	743	Lookout/Chapel	3/2
+1.551  1.023	744	Ill-Gotten Gains/Crossroads	5/2
+1.431  0.906	745	Quarry/Loan	4/3
+1.429  0.907	746	Tournament/Fishing Village	4/3
+1.474  0.952	747	Monument/Fool's Gold	4/2
+1.428  0.905	748	Envoy/Silver	4/3
+1.611  1.093	749	Trade Route/Fool's Gold	3/2
+1.598  1.082	750	Young Witch/Native Village	4/2
+1.427  0.911	751	Treasury/Pearl Diver	5/2
+1.445  0.933	752	Jester/Moat	5/2
+1.418  0.908	753	Quarry/Trade Route	4/3
+1.409  0.902	754	Cutpurse/Silver	4/3
+1.476  0.971	755	Coppersmith/Masquerade	4/3
+1.407  0.903	756	Governor	5/2
+1.405  0.903	757	Horse Traders/Fishing Village	4/3
+1.408  0.907	758	Market/Lighthouse	5/2
+1.698  1.198	759	Swindler/Watchtower	3/3
+1.410  0.910	760	Feast/Swindler	4/3
+1.911  1.413	761	Sea Hag/Pearl Diver	4/2
+1.423  0.932	762	Monument/Crossroads	4/2
+1.446  0.958	763	Bureaucrat/Masquerade	4/3
+1.772  1.295	764	Embassy/Courtyard	5/2
+1.379  0.903	765	Smithy/Silver	4/3
+1.412  0.937	766	Vault/Native Village	5/2
+1.388  0.913	767	Moneylender/Menagerie	4/3
+1.381  0.910	768	Moneylender/Fool's Gold	4/2
+2.238  1.775	769	Nomad Camp/Sea Hag	4/4
+1.364  0.902	770	Mine	5/2
+1.366  0.908	771	Oasis/Tunnel	3/3
+1.908  1.454	772	Harvest/Crossroads	5/2
+1.358  0.906	773	Caravan/Trade Route	4/3
+1.402  0.952	774	Hunting Party/Pawn	5/2
+1.361  0.916	775	Merchant Ship/Hamlet	5/2
+1.364  0.927	776	Nomad Camp/Fool's Gold	4/2
+2.248  1.812	777	Fortune Teller/Lookout	3/3
+1.592  1.158	778	Bishop/Courtyard	4/2
+1.339  0.905	779	Feast/Steward	4/3
+1.474  1.042	780	Nomad Camp/Lighthouse/Lighthouse	4/2/2
+1.340  0.908	781	Talisman/Chapel	4/2
+2.533  2.102	782	Inn/Masquerade	5/3
+1.338  0.907	783	Ironworks/Steward	4/3
+1.592  1.163	784	Scheme/Swindler	3/3
+1.405  0.978	785	Highway/Nomad Camp	5/4
+3.469  3.042	786	Masquerade/Courtyard	3/2
+1.329  0.904	787	Moneylender/Lookout	4/3
+1.333  0.909	788	Wharf/Pearl Diver	5/2
+3.313  2.891	789	Masquerade/Cellar	3/2
+2.129  1.717	790	Masquerade/Crossroads	3/2
+1.475  1.065	791	Rabble/Fool's Gold	5/2
+1.338  0.928	792	Sea Hag/Workshop	4/3
+1.412  1.004	793	Ghost Ship/Courtyard	5/2
+1.806  1.399	794	Vault/Duchess	5/2
+1.334  0.927	795	Tournament/Oasis	4/3
+1.304  0.910	796	Wharf/Embargo	5/2
+1.314  0.925	797	Cutpurse/Swindler	4/3
+1.296  0.907	798	Trader/Oasis	4/3
+1.405  1.017	799	Navigator/Lookout	4/3
+1.291  0.905	800	Spice Merchant/Fishing Village	4/3
+1.516  1.130	801	Venture/Lighthouse	5/2
+1.344  0.958	802	Remodel/Lighthouse	4/2
+1.432  1.049	803	Trader/Wishing Well	4/3
+1.304  0.923	804	Torturer/Moat	5/2
+1.311  0.933	805	Tactician/Secret Chamber	5/2
+1.818  1.441	806	Sea Hag/Oracle	4/3
+1.279  0.910	807	Spice Merchant/Black Market	4/3
+1.279  0.910	808	Treasury/Native Village	5/2
+1.277  0.912	809	Merchant Ship/Haven	5/2
+1.279  0.916	810	Trader/Lookout	4/3
+1.280  0.920	811	Spy/Swindler	4/3
+2.722  2.362	812	Masquerade/Pawn	3/2
+1.721  1.364	813	Cache/Courtyard	5/2
+1.314  0.961	814	Ghost Ship/Pawn	5/2
+1.275  0.923	815	Minion/Haven	5/2
+1.282  0.933	816	Remake/Great Hall	4/3
+1.755  1.410	817	Swindler/Trade Route	3/3
+1.257  0.916	818	Treasury/Hamlet	5/2
+1.237  0.900	819	Caravan/Lookout	4/3
+1.240  0.907	820	Potion/Warehouse	4/3
+1.236  0.904	821	Baron/Warehouse	4/3
+1.233  0.904	822	Horse Traders/Swindler	4/3
+2.174  1.845	823	Masquerade/Watchtower	3/3
+1.325  1.001	824	Treasury/Fool's Gold	5/2
+1.231  0.910	825	Baron/Fool's Gold	4/2
+1.226  0.907	826	Festival/Courtyard	5/2
+1.227  0.908	827	Young Witch/Black Market	4/3
+1.223  0.908	828	Baron/Ambassador	4/3
+1.594  1.278	829	Navigator/Swindler	4/3
+1.343  1.029	830	Smithy/Fool's Gold	4/2
+1.242  0.928	831	Conspirator/Scheme	4/3
+1.376  1.063	832	Merchant Ship/Fool's Gold	5/2
+1.351  1.038	833	Remake/Native Village	4/2
+1.257  0.944	834	Rabble/Crossroads	5/2
+1.218  0.906	835	Quarry/Lookout	4/3
+1.217  0.908	836	Envoy/Steward	4/3
+1.951  1.642	837	Jack of All Trades/Pearl Diver	4/2
+1.312  1.005	838	Sea Hag/Great Hall	4/3
+1.689  1.383	839	Fishing Village/Fortune Teller	3/3
+1.243  0.940	840	Vault/Pawn	5/2
+1.217  0.916	841	Ironworks/Fool's Gold	4/2
+1.201  0.904	842	Envoy/Shanty Town	4/3
+1.310  1.019	843	Embassy/Hamlet	5/2
+1.191  0.905	844	Trader/Loan	4/3
+1.185  0.900	845	Trader/Shanty Town	4/3
+1.182  0.903	846	Envoy/Village	4/3
+1.190  0.915	847	Spice Merchant/Lookout	4/3
+1.369  1.097	848	Mountebank/Estate	5/2
+1.179  0.907	849	Bridge/Fishing Village	4/3
+1.177  0.906	850	Militia/Shanty Town	4/3
+1.714  1.443	851	Steward/Hamlet	3/2
+1.195  0.927	852	Spice Merchant/Trade Route	4/3
+1.196  0.929	853	Bureaucrat/Ambassador	4/3
+1.460  1.194	854	Embassy/Embargo	5/2
+1.166  0.903	855	Moneylender/Scheme	4/3
+1.178  0.921	856	Remake/Fortune Teller	4/3
+1.642  1.386	857	Harvest/Lighthouse	5/2
+1.160  0.906	858	Bishop/Oasis	4/3
+1.186  0.936	859	Tournament/Scheme	4/3
+1.189  0.939	860	Mine/Embargo	5/2
+1.155  0.906	861	Baron/Fishing Village	4/3
+1.179  0.935	862	Remake/Woodcutter	4/3
+1.150  0.909	863	Worker's Village/Swindler	4/3
+1.162  0.923	864	Island/Oasis	4/3
+1.638  1.399	865	Island/Courtyard	4/2
+1.156  0.917	866	Rabble/Lighthouse	5/2
+1.146  0.908	867	Trader/Steward	4/3
+1.361  1.124	868	Tactician/Nomad Camp	5/4
+1.154  0.917	869	Remake	4/-
+1.148  0.912	870	Bazaar/Moat	5/2
+1.150  0.916	871	Treasure Map/Haven	4/2
+2.409  2.176	872	Masquerade/Embargo	3/2
+1.818  1.588	873	Lookout/Lighthouse	3/2
+1.132  0.902	874	Bishop/Warehouse	4/3
+1.403  1.173	875	Jack of All Trades/Pawn	4/2
+1.411  1.185	876	Trading Post/Copper	5/0
+1.136  0.911	877	Laboratory/Pawn	5/2
+1.127  0.902	878	Monument/Shanty Town	4/3
+1.132  0.908	879	Trader/Village	4/3
+1.206  0.985	880	Apprentice/Crossroads	5/2
+1.148  0.930	881	Sea Hag	4/-
+1.118  0.902	882	Margrave	5/2
+1.119  0.903	883	Remodel/Steward	4/3
+1.208  0.992	884	Stables/Courtyard	5/2
+1.204  0.990	885	Young Witch/Hamlet	4/2
+1.552  1.338	886	Trader/Embargo	4/2
+1.143  0.933	887	Militia/Menagerie	4/3
+1.587  1.378	888	Stash/Courtyard	5/2
+1.244  1.038	889	Hunting Party/Secret Chamber	5/2
+1.184  0.984	890	Cutpurse/Scheme	4/3
+1.781  1.583	891	Remodel/Haven	4/2
+1.168  0.974	892	Militia/Fool's Gold	4/2
+1.557  1.368	893	Fishing Village/Lighthouse	3/2
+1.189  1.001	894	Stables/Haven	5/2
+1.095  0.910	895	Silver/Warehouse	3/3
+1.724  1.540	896	Fortune Teller/Loan	3/3
+1.169  0.986	897	Hunting Party/Moat	5/2
+1.194  1.018	898	Monument/Wishing Well	4/3
+1.111  0.936	899	Tournament/Menagerie	4/3
+1.091  0.918	900	Spy/Steward	4/3
+1.086  0.914	901	Monument/Develop	4/3
+1.406  1.234	902	Minion/Duchess	5/2
+1.059  0.903	903	Hunting Party	5/2
+1.070  0.915	904	Conspirator/Warehouse	4/3
+1.415  1.260	905	Hunting Party/Duchess	5/2
+1.113  0.975	906	Jack of All Trades/Crossroads	4/2
+1.210  1.072	907	Sea Hag/Cellar	4/2
+1.082  0.945	908	Spice Merchant/Crossroads	4/2
+1.042  0.905	909	Navigator/Silver	4/3
+1.043  0.907	910	Ghost Ship	5/2
+1.065  0.930	911	Tournament/Woodcutter	4/3
+1.101  0.968	912	Margrave/Haven	5/2
+1.039  0.908	913	Remodel/Lookout	4/3
+1.046  0.916	914	Merchant Ship/Cellar	5/2
+1.070  0.943	915	Bureaucrat/Swindler	4/3
+1.064  0.945	916	Tournament/Lighthouse	4/2
+1.292  1.172	917	Embassy/Pearl Diver	5/2
+1.019  0.907	918	Moneylender/Village	4/3
+1.333  1.221	919	Jester/Nomad Camp	5/4
+1.016  0.906	920	Fool's Gold/Fool's Gold	2/2
+1.047  0.938	921	Festival/Fool's Gold	5/2
+1.159  1.051	922	Trader/Oracle	4/3
+1.029  0.923	923	Laboratory/Embargo	5/2
+1.041  0.937	924	Salvager/Watchtower	4/3
+1.184  1.086	925	Sea Hag/Native Village	4/2
+1.005  0.908	926	Moneylender/Develop	4/3
+1.074  0.981	927	Spice Merchant/Menagerie	4/3
+0.996  0.906	928	Potion/Shanty Town	4/3
+1.112  1.024	929	Stables/Embargo	5/2
+1.083  0.994	930	Monument/Native Village	4/2
+0.990  0.905	931	Minion	5/2
+1.073  0.988	932	Hunting Party/Pearl Diver	5/2
+0.988  0.905	933	Spice Merchant/Oasis	4/3
+1.021  0.940	934	Council Room/Crossroads	5/2
+0.986  0.906	935	Feast/Fishing Village	4/3
+1.164  1.086	936	Outpost/Chapel	5/2
+1.010  0.934	937	Haggler/Cellar	5/2
+1.141  1.069	938	Island/Wishing Well	4/3
+0.970  0.901	939	Island/Lookout	4/3
+0.965  0.904	940	Feast/Lookout	4/3
+1.824  1.763	941	Apprentice/Mandarin	5/5
+0.975  0.915	942	Militia/Village	4/3
+0.960  0.901	943	Treasury	5/2
+1.159  1.099	944	Stables/Nomad Camp	5/4
+0.961  0.905	945	Caravan/Silver	4/3
+1.724  1.668	946	Develop/Shanty Town	3/3
+1.201  1.146	947	Ill-Gotten Gains/Native Village	5/2
+0.952  0.903	948	Haggler	5/2
+0.957  0.908	949	Wharf/Pawn	5/2
+0.951  0.907	950	Remodel/Fishing Village	4/3
+1.255  1.213	951	Loan/Shanty Town	3/3
+0.939  0.901	952	Trader/Fishing Village	4/3
+0.957  0.919	953	Merchant Ship/Pawn	5/2
+0.965  0.929	954	Minion/Pearl Diver	5/2
+0.953  0.924	955	Tactician/Courtyard	5/2
+0.995  0.967	956	Jack of All Trades/Trade Route	4/3
+1.021  0.998	957	Fishing Village/Loan	3/3
+0.925  0.903	958	Horse Traders/Loan	4/3
+0.943  0.923	959	Rabble/Native Village	5/2
+1.097  1.081	960	Workshop/Chapel	3/2
+0.949  0.934	961	Smithy/Swindler	4/3
+0.917  0.905	962	Caravan/Workshop	4/3
+0.916  0.904	963	Silver/Silver	3/3
+0.918  0.906	964	Militia/Lighthouse	4/2
+0.918  0.906	965	Remake/Black Market	4/3
+0.950  0.938	966	Apprentice/Native Village	5/2
+0.919  0.908	967	Lookout/Lookout	3/3
+1.152  1.142	968	Embassy/Pawn	5/2
+0.943  0.939	969	Bishop/Hamlet	4/2
+7.728  7.726	970	Nomad Camp/Fishing Village/Cellar	4/3/2
+0.905  0.904	971	Caravan/Loan	4/3
+1.619  1.618	972	Ambassador/Native Village	3/2
