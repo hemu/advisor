@@ -9,10 +9,11 @@ class OpeningFinder:
     # given a list of kingdom cards
     # search through available openings and return
     # all valid openings in order of rank
-    def findBestOpener(self, cardList):
-        cardListSet = set(cardList)
+    def find_top_openings(self, cardList):
+        card_list_set = set(cardList)
+        best_openings = []
         for opening in self.openings:
-            openingSet = set(opening[0])
-            if openingSet.issubset(cardListSet):
-                return opening
-        return None
+            opening_set = set(opening[0])
+            if opening_set.issubset(card_list_set):
+                best_openings.append(opening)
+        return best_openings

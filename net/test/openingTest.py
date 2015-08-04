@@ -23,11 +23,12 @@ class TestOpeningFinder(unittest.TestCase):
             openingFinder = OpeningFinder()
             kingdomCards = kingdomGenerator.getCards(10, topOpening, allTopOpeningCards)
             opener = openingFinder.findBestOpener(kingdomCards)
+            print ""
             print kingdomCards
             print opener
+            print ""
             self.assertTrue(opener)
-            self.assertItemsEqual(opener[0], topOpening)
-
+            self.assertItemsEqual(opener[0][0], topOpening)
 
   # def test_isupper(self):
   #     self.assertTrue('FOO'.isupper())
@@ -43,7 +44,7 @@ class TestOpeningFinder(unittest.TestCase):
 class KingdomGenerator:
 
     def __init__(self):
-        cardListFile = "cardList.txt"
+        cardListFile = "data/cardList.txt"
         with open(cardListFile) as f:
             self.cards = [l.strip() for l in f]
             import random
